@@ -3,6 +3,11 @@
 - [Learn X in Y Minutes](https://learnxinyminutes.com/)
 - [Awesome](https://github.com/sindresorhus/awesome)
 
+## Git
+
+- [Try Git](https://try.github.io)
+- [Git-it](https://github.com/jlord/git-it)
+
 ## Web Development
 
 - [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
