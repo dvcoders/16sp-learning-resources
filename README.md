@@ -1,6 +1,3 @@
-## Project Ideas
-
-
 ## Learning Resources
 
 **A note from dvcoders to you...**
