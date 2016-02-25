@@ -28,6 +28,7 @@
 - [Git-it](http://jlord.us/git-it/): Simple step by step tutorial in Git concepts and commands.
 
 ### Web Development
+--
 
 > Do not use W3Schools! It doesn't teach important concepts, only bad code examples
 
@@ -72,6 +73,7 @@
 - [Awesome Java](https://github.com/akullpp/awesome-java): A curated list of **everything awesome** with the Java programming language.
 
 #### Big Data
+--
 
 - [Awesome Big Data](https://github.com/onurakpolat/awesome-bigdata): A curated list of **everything awesome** for massive datasets you can use for your applications.
 - [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets): Similar to above, here are some examples...
