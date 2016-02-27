@@ -24,6 +24,12 @@
 - [Try Git](https://try.github.io): An online walkthrough in the basics of Git. Takes only 20 minutes to get a good understanding.
 - [Git-it](http://jlord.us/git-it/): Simple step by step tutorial in Git concepts and commands.
 
+#### Shell
+
+- [Bash](https://github.com/alebcay/awesome-shell)
+- [Vim](https://github.com/mhinz/vim-galore)
+- [Dot files](https://dotfiles.github.io/)
+
 ### Web Development
 --
 
