@@ -26,9 +26,9 @@
 
 #### Shell
 
-- [Bash](https://github.com/alebcay/awesome-shell)
-- [Vim](https://github.com/mhinz/vim-galore)
-- [Dot files](https://dotfiles.github.io/)
+- [Awesome Shell](https://github.com/alebcay/awesome-shell): A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
+- [Vim Galore](https://github.com/mhinz/vim-galore): All things Vim and Neovim!
+- [dotfiles](https://dotfiles.github.io/): Your unofficial guide to dotfiles on GitHub.
 
 ### Web Development
 --
