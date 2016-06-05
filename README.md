@@ -23,7 +23,8 @@
 
 - [Try Git](https://try.github.io): An online walkthrough in the basics of Git. Takes only 20 minutes to get a good understanding.
 - [Git-it](http://jlord.us/git-it/): Simple step by step tutorial in Git concepts and commands.
-
+- [Git-Cheat-Sheet](https://services.github.com/kit/downloads/github-git-cheat-sheet.pdf): Git Cheat Sheet from Github.com.
+- [Git-Documentation](https://git-scm.com/doc): The official Git docs, including a whole **book** and **video lessons**.
 #### Shell
 
 - [Awesome Shell](https://github.com/alebcay/awesome-shell): A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
