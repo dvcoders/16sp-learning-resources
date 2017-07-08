@@ -25,6 +25,13 @@
 - [Git-it](http://jlord.us/git-it/): Simple step by step tutorial in Git concepts and commands.
 - [Git-Cheat-Sheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf): Git Cheat Sheet from Github.com.
 - [Git-Documentation](https://git-scm.com/doc): The official Git docs, including a whole **book** and **video lessons**.
+
+#### Github
+- [Markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf): Markdown is a way to style text on the web. You control the display of the document. It's commonly used for Github README.md (The one you reading right now)
+- [Hello World](https://guides.github.com/activities/hello-world/): Learn the Github Essentials. Get you started with Github.
+- [Github Guides](https://guides.github.com/) Awesome easy-to-follow tutorials created by Github.
+- [dvcoders Github Workshop](https://github.com/dvcoders/GitHub-Workshop) Slides and notes about our Github Workshop.
+
 #### Shell
 
 - [Awesome Shell](https://github.com/alebcay/awesome-shell): A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
